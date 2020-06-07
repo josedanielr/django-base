@@ -1,0 +1,1 @@
+Base docker image for [DMOJ's django web app](https://github.com/josedanielr/online-judge).
